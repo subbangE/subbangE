@@ -36,9 +36,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#"/></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=#"/></a>
 </p>
+
+<br>
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
   
 [![subbangE's GitHub stats](https://github-readme-stats.vercel.app/api?username=subbangE&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
