@@ -50,7 +50,5 @@
 
 <br>
 
-[![SubbangE's github activity graph](https://activity-graph.herokuapp.com/graph?username=subbangE&theme=nord)](https://github.com/subbangE/github-readme-activity-graph)
-
 </div>
 
