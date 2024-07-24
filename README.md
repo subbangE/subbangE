@@ -44,6 +44,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbangE&exclude_repo=subbangE.github.io&layout=compact&theme=tokyolight" />
 </a>
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=light&show_icons=true" width="42%" />
 </a>
