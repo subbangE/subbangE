@@ -27,7 +27,6 @@
 
 <br>
 
-<h3 align="center">💜 Follow Me 🤍</h3>
 <!-- <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=#"/></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#"/></a>&nbsp
@@ -37,16 +36,18 @@
 <br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
 <br>
+
 <div align="center">
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbangE&exclude_repo=subbangE.github.io&layout=compact&theme=tokyolight" /></a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=tokyolight&show_icons=true" /></a>
+
 <br>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=tokyolight&show_icons=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbangE&exclude_repo=subbangE.github.io&layout=compact&theme=tokyolight" /></a>
 
 <br>
 
