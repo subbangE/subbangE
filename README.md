@@ -41,5 +41,10 @@
   
 [![subbangE's GitHub stats](https://github-readme-stats.vercel.app/api?username=subbangE&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/subbangE/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbangE&exclude_repo=subbangE.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 </div>
