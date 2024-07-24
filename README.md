@@ -48,5 +48,9 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=light&show_icons=true" width="42%" /></a>
 
+<br>
+
+[![SubbangE's github activity graph](https://activity-graph.herokuapp.com/graph?username=subbangE&theme=nord)](https://github.com/subbangE/github-readme-activity-graph)
+
 </div>
 
