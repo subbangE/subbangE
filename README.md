@@ -46,7 +46,7 @@
 <br>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=light&show_icons=true" width="42%" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=tokyolight&show_icons=true" /></a>
 
 <br>
 
