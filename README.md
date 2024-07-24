@@ -48,9 +48,7 @@
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=subbangE&theme=light&show_icons=true" width="42%" />
-</a>
-
-<br>
+</a>&nbsp
 
 <a href="https://opgc.me/#/users/subbangE" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/subbangE/tag/?theme=basic" /></a>
 
