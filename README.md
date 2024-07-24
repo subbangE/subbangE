@@ -41,5 +41,5 @@
   
 [![subbangE's GitHub stats](https://github-readme-stats.vercel.app/api?username=subbangE&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-![subbangE's GitHub statistics](https://raw.githubusercontent.com/subbangE/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/subbangE/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </div>
