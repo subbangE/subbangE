@@ -2,6 +2,16 @@
 
 <br>
 
+<h3 align="center">✨ Portfolio ✨</h3>
+
+<p align="center"> 
+  <a href="http://naver.me/57VXCT1a">포토폴리오</a>&nbsp
+</p>
+
+<br>
+
+<br>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -52,14 +62,4 @@
 <br>
 
 </div>
-
-<br>
-
-<br>
-
-<h3 align="center">✨ Portfolio ✨</h3>
-
-<p align="center"> 
-  <a href="http://naver.me/57VXCT1a">포토폴리오</a>&nbsp
-</p>
 
