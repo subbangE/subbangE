@@ -55,9 +55,8 @@
 
 <h3 align="center">✨ Portfolio ✨</h3>
 
-<br>
-
 <p align="center"> 
-<a href="http://naver.me/57VXCT1a">포토폴리오 보기</a>&nbsp
+  <a href="http://naver.me/57VXCT1a">포토폴리오</a>&nbsp
+  <a href="http://naver.me/5LHoueld">이력서</a>&nbsp
 </p>
 
